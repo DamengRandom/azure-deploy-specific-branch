@@ -9,6 +9,7 @@ function App() {
           Target branch to deploy to azure service provider ..
         </p>
         <b>New deployment occurred on deploy branch</b>
+        <p>feature 2 new changes</p>
       </header>
     </div>
   );
